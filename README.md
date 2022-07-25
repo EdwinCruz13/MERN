@@ -14,10 +14,12 @@
   With the MERN stack, we use JavaScript on the client side and Node.js on the server side.
   
   <ul>
-    <li>MongoDB - document database</li>
-    <li>Express(.js) - Node.js web framework</li>
-    <li>React(.js) - a client-side JavaScript framework</li>
-    <li>Node(.js) - the premier JavaScript web server</li>
+    <li>MongoDB - document database.</li>
+    <li>Express(.js) - Node.js web framework.</li>
+    <li>React(.js) - a client-side JavaScript framework.</li>
+    <li><a href="https://github.com/EdwinCruz13/NodeJS-Lesson">Node(.js) - the premier JavaScript web server.<a/></li>
+    
+    
   </ul>
   <img src="https://webimages.mongodb.com/_com_assets/cms/mern-stack-b9q1kbudz0.png?auto=format%2Ccompress" alt="MERN - EdwinCruz"  />
 </p>
